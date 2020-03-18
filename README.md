@@ -2,4 +2,4 @@
 
 K-Nearest-Neighbors Algorithmus! Using sklearn,pandas,numpy and matplotlib.
 
-I used the popular Iris Data Set (https://archive.ics.uci.edu/ml/datasets/Iris) to predict the Iris species based on a series of attributes.
+I used the Sklearn Digit Dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html) to predict Digits from 1 to 9 based on given pictures.
